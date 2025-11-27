@@ -27,7 +27,7 @@ The group is created before the "Material Output" node and does not affect exist
 
 <br>
 
-Keyframes are set on the object's "Custom Properties". <br>
+Keyframes are set on the objects "Custom Properties". <br>
 This improves performance when working with a large number of materials.
 <div align="center">
   <img src=".meta/preview_anim_2.gif" width="800"/> <br>
